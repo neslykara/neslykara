@@ -2,7 +2,8 @@
 
 
 Here are some ideas to get you started:
--🌱 I’m currently learning java
+
+--🌱 I’m currently learning java
 - 😄 Pronouns: She
 - ⚡ Fun fact: rain, coffee, book or movie / quiet entertainment
 
