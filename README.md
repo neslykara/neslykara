@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -🌱 I’m currently learning java
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
 <!-- 
 -- 😄 Pronouns: She
