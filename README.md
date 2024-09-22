@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
--🌱 I’m currently learning java
-![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript)
+-🌱 I’m currently learning java 
+![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript) <br>
 -🌱 I’m currently learning HTML
 ![HTML](https://img.shields.io/badge/HTML-darkblue?logo=html)
 
