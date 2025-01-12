@@ -3,10 +3,13 @@
 
 Here are some ideas to get you started:
 
--🌱 I’m currently learning java 
+![Java](https://img.shields.io/badge/Java-orange?logo=java) <br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot) <br>
+![Hibernate](https://img.shields.io/badge/Hibernate-darkgreen?logo=hibernate) <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql) <br>
+![JDBC](https://img.shields.io/badge/JDBC-lightgray?logo=oracle) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript) <br>
--🌱 I’m currently learning HTML
-![HTML](https://img.shields.io/badge/HTML-darkblue?logo=html)
+![HTML](https://img.shields.io/badge/HTML-darkblue?logo=html) <br>
 
 <!-- 
 -- 😄 Pronouns: She
