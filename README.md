@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript) <br>
 ![HTML](https://img.shields.io/badge/HTML-darkblue?logo=html) <br>
 
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks:** Spring Boot, Hibernate
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Maven, Docker, IntelliJ IDEA
+
 <!-- 
 -- 😄 Pronouns: She
 - ⚡ Fun fact: rain, coffee, book or movie / quiet entertainment
