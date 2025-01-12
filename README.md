@@ -1,7 +1,9 @@
-## Hi I'm Neslihan🙋‍♀️
+## Hi there, I'm Neslihan🙋‍♀️
 
+## 🚀 My Projects
 
-Here are some ideas to get you started:
+- **[BookOrderSystem](https://github.com/yourusername/BookOrderSystem)**: A Java-based application for managing book orders with Spring Boot and Hibernate.
+- **[Library Management System](https://github.com/yourusername/LibraryManagementSystem)**: A library management system built with Spring Boot and PostgreSQL.
 
 ![Java](https://img.shields.io/badge/Java-orange?logo=java) <br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot) <br>
@@ -11,10 +13,16 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript) <br>
 ![HTML](https://img.shields.io/badge/HTML-darkblue?logo=html) <br>
 
+## ⚡ Technologies & Tools
+
 - **Languages:** Java, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot, Hibernate
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Maven, Docker, IntelliJ IDEA
+
+## 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/neslihan-kara-923375345/)
 
 <!-- 
 -- 😄 Pronouns: She
