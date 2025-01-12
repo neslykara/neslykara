@@ -20,6 +20,15 @@
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Maven, Docker, IntelliJ IDEA
 
+  ![Java](https://img.shields.io/badge/Java-blue?logo=java) <br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?logo=springboot) <br>
+![Hibernate](https://img.shields.io/badge/Hibernate-darkblue?logo=hibernate) <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql) <br>
+![JDBC](https://img.shields.io/badge/JDBC-darkorange?logo=oracle) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) <br>
+![HTML](https://img.shields.io/badge/HTML-red?logo=html) <br>
+
+
 ## 🔗 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/neslihan-kara-923375345/)
