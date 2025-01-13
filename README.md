@@ -10,7 +10,7 @@
 
 - **Languages:** Java, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot, Hibernate
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL
 - **Tools:** Git, Maven, Docker, IntelliJ IDEA
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java) 
